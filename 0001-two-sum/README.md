@@ -9,7 +9,7 @@
 ## Submission
 
 **Language:** c  
-**Runtime:** 100 ms (52.92%)  
+**Runtime:** 103 ms (31.66%)  
 **Memory:** 9.1 MB (15.61%)  
 **Submitted:** 2026-10-03
 
