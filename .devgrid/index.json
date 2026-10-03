@@ -6,13 +6,13 @@
       "slug": "two-sum",
       "difficulty": "Easy",
       "language": "c",
-      "runtime": 100,
-      "memory": 9524000,
+      "runtime": 103,
+      "memory": 9576000,
       "topics": [],
       "folderName": "0001-two-sum",
-      "lastUpdated": 1791057417214
+      "lastUpdated": 1791057421217
     }
   },
-  "lastUpdated": 1791057417214,
+  "lastUpdated": 1791057421217,
   "version": "1.0.0"
 }
