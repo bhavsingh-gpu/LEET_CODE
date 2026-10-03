@@ -1,0 +1,18 @@
+{
+  "submissions": {
+    "1-c": {
+      "questionId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "language": "c",
+      "runtime": 100,
+      "memory": 9524000,
+      "topics": [],
+      "folderName": "0001-two-sum",
+      "lastUpdated": 1791057417214
+    }
+  },
+  "lastUpdated": 1791057417214,
+  "version": "1.0.0"
+}
