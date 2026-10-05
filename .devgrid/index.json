@@ -11,8 +11,36 @@
       "topics": [],
       "folderName": "0001-two-sum",
       "lastUpdated": 1791057421217
+    },
+    "258-c": {
+      "questionId": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "difficulty": "Easy",
+      "language": "c",
+      "runtime": 0,
+      "memory": 9188000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "math",
+          "name": "Math"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "simulation",
+          "name": "Simulation"
+        },
+        {
+          "tagId": "topic-2",
+          "slug": "number-theory",
+          "name": "Number Theory"
+        }
+      ],
+      "folderName": "0258-add-digits",
+      "lastUpdated": 1791227117988
     }
   },
-  "lastUpdated": 1791057421217,
+  "lastUpdated": 1791227117988,
   "version": "1.0.0"
 }
