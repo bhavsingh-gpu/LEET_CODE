@@ -39,8 +39,31 @@
       ],
       "folderName": "0258-add-digits",
       "lastUpdated": 1791227117988
+    },
+    "26-c": {
+      "questionId": "26",
+      "title": "Remove Duplicates From Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "language": "c",
+      "runtime": 808,
+      "memory": 12840000,
+      "topics": [
+        {
+          "tagId": "topic-0",
+          "slug": "array",
+          "name": "Array"
+        },
+        {
+          "tagId": "topic-1",
+          "slug": "two-pointers",
+          "name": "Two Pointers"
+        }
+      ],
+      "folderName": "0026-remove-duplicates-from-sorted-array",
+      "lastUpdated": 1792147785089
     }
   },
-  "lastUpdated": 1791227117988,
+  "lastUpdated": 1792147785089,
   "version": "1.0.0"
 }
